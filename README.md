@@ -12,7 +12,7 @@ Framework : codeigniter 3
 
 Panduan Penggunaan : 
 
-1. Pertama silakan login menggunakan usernaem dan password dengan role admin / pegawai
+1. Pertama silakan login menggunakan username dan password dengan role admin / pegawai
 2. Setelah melakukan login anda bisa input kendaraan dan driver sebelum melakukan penyewaan
 3. setelah tersediah kendaraan dan driver anda bisa melakukan sewa di menu sewa
 4. setelah berhasil input data sewa anda wajib konfirmasi data benar di table yang terdapat di menu sewa
